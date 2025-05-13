@@ -1,451 +1,793 @@
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000001', 'Registered', 1, 'University of Johannesburg', 'UJ-110001', 78.50, 'Computer Science', 'B');
+VALUES ('200000001', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110001', 78.50, 'Computer Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000002', 'Registered', 2, 'University of Johannesburg', 'UJ-110002', 76.80, 'Information Technology', 'B');
+VALUES ('200000002', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110002', 76.80, 'Information Technology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000003', 'Registered', 3, 'University of Johannesburg', 'UJ-110003', 74.20, 'Engineering', 'B');
+VALUES ('200000003', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110003', 74.20, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000004', 'Registered', 4, 'University of Johannesburg', 'UJ-110004', 81.00, 'Data Science', 'B');
+VALUES ('200000004', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110004', 81.00, 'Data Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000005', 'Registered', 1, 'University of Cape Town', 'UCT-100001', 79.60, 'Biotechnology', 'B');
+VALUES ('200000005', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100001', 79.60, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000006', 'Provisional', 2, 'University of Cape Town', 'UCT-100002', 80.00, 'Information Technology', 'B');
+VALUES ('200000006', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-100002', 80.00, 'Information Technology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000007', 'Non-Registered', 3, 'University of Cape Town', 'UCT-100003', 70.30, 'Engineering', 'B');
+VALUES ('200000007', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-100003', 70.30, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000008', 'Registered', 1, 'University of Pretoria', 'UP-120001', 82.40, 'Data Science', 'B');
+VALUES ('200000008', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120001', 82.40, 'Data Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000009', 'Provisional', 2, 'University of Pretoria', 'UP-120002', 77.80, 'Biotechnology', 'B');
+VALUES ('200000009', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120002', 77.80, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000010', 'Non-Registered', 3, 'University of Pretoria', 'UP-120003', 74.50, 'Computer Science', 'B');
+VALUES ('200000010', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120003', 74.50, 'Computer Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000011', 'Registered', 1, 'University of Cape Town', 'UCT-100004', 85.20, 'Environmental Science', 'B');
+VALUES ('200000011', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100004', 85.20, 'Environmental Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000012', 'Provisional', 2, 'University of Cape Town', 'UCT-100005', 79.30, 'Mathematics', 'B');
+VALUES ('200000012', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-100005', 79.30, 'Mathematics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000013', 'Non-Registered', 3, 'University of Cape Town', 'UCT-100006', 82.60, 'Physics', 'B');
+VALUES ('200000013', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-100006', 82.60, 'Physics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000014', 'Registered', 4, 'University of Cape Town', 'UCT-100007', 88.10, 'Biotechnology', 'B');
+VALUES ('200000014', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100007', 88.10, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000015', 'Registered', 1, 'University of Pretoria', 'UP-120004', 79.00, 'Finance', 'B');
+VALUES ('200000015', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120004', 79.00, 'Finance', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000016', 'Provisional', 2, 'University of Pretoria', 'UP-120005', 77.50, 'Accounting', 'B');
+VALUES ('200000016', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120005', 77.50, 'Accounting', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000017', 'Non-Registered', 3, 'University of Pretoria', 'UP-120006', 80.20, 'Business Administration', 'B');
+VALUES ('200000017', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120006', 80.20, 'Business Administration', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000018', 'Registered', 4, 'University of Pretoria', 'UP-120007', 85.70, 'Marketing', 'B');
+VALUES ('200000018', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120007', 85.70, 'Marketing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000019', 'Registered', 1, 'University of Stellenbosch', 'US-130001', 82.90, 'Economics', 'B');
+VALUES ('200000019', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130001', 82.90, 'Economics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000020', 'Provisional', 2, 'University of Stellenbosch', 'US-130002', 75.40, 'Human Resource Management', 'B');
+VALUES ('200000020', 'Provisional', '2024-2025', 'University of Stellenbosch', 'US-130002', 75.40, 'Human Resource Management', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000021', 'Non-Registered', 3, 'University of Stellenbosch', 'US-130003', 70.80, 'Supply Chain Management', 'B');
+VALUES ('200000021', 'Non-Registered', '2024-2025', 'University of Stellenbosch', 'US-130003', 70.80, 'Supply Chain Management', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000022', 'Registered', 4, 'University of Stellenbosch', 'US-130004', 84.00, 'Psychology', 'B');
+VALUES ('200000022', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130004', 84.00, 'Psychology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000023', 'Registered', 1, 'University of Johannesburg', 'UJ-110005', 77.10, 'Sociology', 'B');
+VALUES ('200000023', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110005', 77.10, 'Sociology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000024', 'Provisional', 2, 'University of Johannesburg', 'UJ-110006', 81.30, 'Political Science', 'B');
+VALUES ('200000024', 'Provisional', '2024-2025', 'University of Johannesburg', 'UJ-110006', 81.30, 'Political Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000025', 'Non-Registered', 3, 'University of Johannesburg', 'UJ-110007', 72.60, 'History', 'B');
+VALUES ('200000025', 'Non-Registered', '2024-2025', 'University of Johannesburg', 'UJ-110007', 72.60, 'History', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000026', 'Registered', 4, 'University of Johannesburg', 'UJ-110008', 88.00, 'Philosophy', 'B');
+VALUES ('200000026', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110008', 88.00, 'Philosophy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000027', 'Registered', 1, 'University of Cape Town', 'UCT-100008', 83.40, 'Anthropology', 'B');
+VALUES ('200000027', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100008', 83.40, 'Anthropology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000028', 'Provisional', 2, 'University of Cape Town', 'UCT-100009', 76.10, 'Journalism & Media Studies', 'B');
+VALUES ('200000028', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-100009', 76.10, 'Journalism & Media Studies', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000029', 'Non-Registered', 3, 'University of Cape Town', 'UCT-100010', 75.80, 'Law (LLB)', 'B');
+VALUES ('200000029', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-100010', 75.80, 'Law (LLB)', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000030', 'Registered', 4, 'University of Cape Town', 'UCT-100011', 89.50, 'Criminology', 'B');
+VALUES ('200000030', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100011', 89.50, 'Criminology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000031', 'Registered', 1, 'University of Pretoria', 'UP-120008', 78.30, 'International Relations', 'B');
+VALUES ('200000031', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120008', 78.30, 'International Relations', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000032', 'Provisional', 2, 'University of Pretoria', 'UP-120009', 77.40, 'Public Administration', 'B');
+VALUES ('200000032', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120009', 77.40, 'Public Administration', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000033', 'Non-Registered', 3, 'University of Pretoria', 'UP-120010', 82.90, 'Education (Foundation, Intermediate, Senior Phase)', 'B');
+VALUES ('200000033', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120010', 82.90, 'Education (Foundation, Intermediate, Senior Phase)', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000034', 'Registered', 4, 'University of Pretoria', 'UP-120011', 87.00, 'Fine Arts', 'B');
+VALUES ('200000034', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120011', 87.00, 'Fine Arts', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000035', 'Registered', 1, 'University of Stellenbosch', 'US-130005', 76.90, 'Music', 'B');
+VALUES ('200000035', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130005', 76.90, 'Music', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000036', 'Provisional', 2, 'University of Stellenbosch', 'US-130006', 79.10, 'Drama & Theatre Studies', 'B');
+VALUES ('200000036', 'Provisional', '2024-2025', 'University of Stellenbosch', 'US-130006', 79.10, 'Drama & Theatre Studies', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000037', 'Non-Registered', 3, 'University of Stellenbosch', 'US-130007', 71.80, 'Graphic Design', 'B');
+VALUES ('200000037', 'Non-Registered', '2024-2025', 'University of Stellenbosch', 'US-130007', 71.80, 'Graphic Design', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000038', 'Registered', 4, 'University of Stellenbosch', 'US-130008', 84.70, 'Engineering', 'B');
+VALUES ('200000038', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130008', 84.70, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000039', 'Registered', 1, 'University of Johannesburg', 'UJ-110009', 82.60, 'Engineering', 'B');
+VALUES ('200000039', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110009', 82.60, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000040', 'Provisional', 2, 'University of Johannesburg', 'UJ-110010', 79.50, 'Computer Science', 'B');
+VALUES ('200000040', 'Provisional', '2024-2025', 'University of Johannesburg', 'UJ-110010', 79.50, 'Computer Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000041', 'Non-Registered', 3, 'University of Johannesburg', 'UJ-110011', 65.20, 'Data Science', 'B');
+VALUES ('200000041', 'Non-Registered', '2024-2025', 'University of Johannesburg', 'UJ-110011', 65.20, 'Data Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000042', 'Registered', 4, 'University of Johannesburg', 'UJ-110012', 91.50, 'Biotechnology', 'B');
+VALUES ('200000042', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110012', 91.50, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000043', 'Registered', 1, 'University of Cape Town', 'UCT-100012', 68.00, 'Physics', 'B');
+VALUES ('200000043', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100012', 68.00, 'Physics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000044', 'Provisional', 2, 'University of Cape Town', 'UCT-100013', 72.40, 'Mathematics', 'B');
+VALUES ('200000044', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-100013', 72.40, 'Mathematics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000045', 'Non-Registered', 3, 'University of Cape Town', 'UCT-100014', 65.50, 'Environmental Science', 'B');
+VALUES ('200000045', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-100014', 65.50, 'Environmental Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000046', 'Registered', 4, 'University of Cape Town', 'UCT-100015', 88.10, 'Medicine', 'B');
+VALUES ('200000046', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-100015', 88.10, 'Medicine', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000047', 'Registered', 1, 'University of Pretoria', 'UP-120012', 78.90, 'Nursing', 'B');
+VALUES ('200000047', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120012', 78.90, 'Nursing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000048', 'Provisional', 2, 'University of Pretoria', 'UP-120013', 80.60, 'Pharmacy', 'B');
+VALUES ('200000048', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120013', 80.60, 'Pharmacy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000049', 'Non-Registered', 3, 'University of Pretoria', 'UP-120014', 55.90, 'Physiotherapy', 'B');
+VALUES ('200000049', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120014', 55.90, 'Physiotherapy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000050', 'Registered', 4, 'University of Pretoria', 'UP-120015', 94.00, 'Public Health', 'B');
+VALUES ('200000050', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120015', 94.00, 'Public Health', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000051', 'Non-Registered', 2, 'University of Pretoria', 'UP-120016', 61.30, 'Veterinary Science', 'B');
+VALUES ('200000051', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120016', 61.30, 'Veterinary Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000052', 'Provisional', 3, 'University of Pretoria', 'UP-120017', 70.40, 'Biomedical Sciences', 'B');
+VALUES ('200000052', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120017', 70.40, 'Biomedical Sciences', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000053', 'Registered', 4, 'University of Pretoria', 'UP-120018', 85.50, 'Accounting', 'B');
+VALUES ('200000053', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120018', 85.50, 'Accounting', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000054', 'Registered', 1, 'University of Pretoria', 'UP-120019', 77.00, 'Finance', 'B');
+VALUES ('200000054', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120019', 77.00, 'Finance', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000055', 'Non-Registered', 3, 'University of Pretoria', 'UP-120020', 58.70, 'Economics', 'B');
+VALUES ('200000055', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120020', 58.70, 'Economics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000056', 'Provisional', 2, 'University of Pretoria', 'UP-120021', 72.20, 'Business Administration', 'B');
+VALUES ('200000056', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120021', 72.20, 'Business Administration', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000057', 'Registered', 4, 'University of Pretoria', 'UP-120022', 90.10, 'Marketing', 'B');
+VALUES ('200000057', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120022', 90.10, 'Marketing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000058', 'Non-Registered', 1, 'University of Pretoria', 'UP-120023', 82.50, 'Human Resource Management', 'B');
+VALUES ('200000058', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120023', 82.50, 'Human Resource Management', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000059', 'Provisional', 2, 'University of Pretoria', 'UP-120024', 69.80, 'Supply Chain Management', 'B');
+VALUES ('200000059', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120024', 69.80, 'Supply Chain Management', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000060', 'Registered', 3, 'University of Pretoria', 'UP-120025', 88.20, 'Psychology', 'B');
+VALUES ('200000060', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120025', 88.20, 'Psychology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000061', 'Non-Registered', 2, 'University of Pretoria', 'UP-120026', 65.00, 'Sociology', 'B');
+VALUES ('200000061', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120026', 65.00, 'Sociology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000062', 'Provisional', 3, 'University of Pretoria', 'UP-120027', 74.90, 'Political Science', 'B');
+VALUES ('200000062', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120027', 74.90, 'Political Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000063', 'Registered', 4, 'University of Pretoria', 'UP-120028', 80.60, 'History', 'B');
+VALUES ('200000063', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120028', 80.60, 'History', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000064', 'Non-Registered', 2, 'University of Pretoria', 'UP-120029', 62.10, 'Philosophy', 'B');
+VALUES ('200000064', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120029', 62.10, 'Philosophy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000065', 'Provisional', 1, 'University of Pretoria', 'UP-120030', 84.30, 'Anthropology', 'B');
+VALUES ('200000065', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120030', 84.30, 'Anthropology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000066', 'Registered', 3, 'University of Pretoria', 'UP-120031', 78.00, 'Journalism & Media Studies', 'B');
+VALUES ('200000066', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120031', 78.00, 'Journalism & Media Studies', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000067', 'Non-Registered', 4, 'University of Pretoria', 'UP-120032', 69.30, 'Law (LLB)', 'B');
+VALUES ('200000067', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120032', 69.30, 'Law (LLB)', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000068', 'Provisional', 1, 'University of Pretoria', 'UP-120033', 75.20, 'Criminology', 'B');
+VALUES ('200000068', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120033', 75.20, 'Criminology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000069', 'Registered', 2, 'University of Pretoria', 'UP-120034', 86.40, 'International Relations', 'B');
+VALUES ('200000069', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120034', 86.40, 'International Relations', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000070', 'Non-Registered', 3, 'University of Pretoria', 'UP-120035', 64.50, 'Public Administration', 'B');
+VALUES ('200000070', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120035', 64.50, 'Public Administration', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000071', 'Provisional', 4, 'University of Pretoria', 'UP-120036', 81.80, 'Education (Foundation, Intermediate, Senior Phase)', 'B');
+VALUES ('200000071', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120036', 81.80, 'Education (Foundation, Intermediate, Senior Phase)', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000072', 'Registered', 1, 'University of Pretoria', 'UP-120037', 70.10, 'Fine Arts', 'B');
+VALUES ('200000072', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120037', 70.10, 'Fine Arts', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000073', 'Non-Registered', 2, 'University of Pretoria', 'UP-120038', 58.80, 'Music', 'B');
+VALUES ('200000073', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120038', 58.80, 'Music', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000074', 'Provisional', 3, 'University of Pretoria', 'UP-120039', 79.90, 'Drama & Theatre Studies', 'B');
+VALUES ('200000074', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120039', 79.90, 'Drama & Theatre Studies', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000075', 'Registered', 4, 'University of Pretoria', 'UP-120040', 88.70, 'Graphic Design', 'B');
+VALUES ('200000075', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120040', 88.70, 'Graphic Design', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000076', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130001', 65.50, 'Computer Science', 'B');
+VALUES ('200000076', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130001', 65.50, 'Computer Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000077', 'Provisional', 2, 'University of Cape Town', 'UCT-130002', 72.30, 'Information Technology', 'B');
+VALUES ('200000077', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130002', 72.30, 'Information Technology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000078', 'Registered', 3, 'University of Cape Town', 'UCT-130003', 79.50, 'Engineering', 'B');
+VALUES ('200000078', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130003', 79.50, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000079', 'Non-Registered', 4, 'University of Cape Town', 'UCT-130004', 68.20, 'Data Science', 'B');
+VALUES ('200000079', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130004', 68.20, 'Data Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000080', 'Provisional', 1, 'University of Cape Town', 'UCT-130005', 81.30, 'Biotechnology', 'B');
+VALUES ('200000080', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130005', 81.30, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000081', 'Registered', 2, 'University of Cape Town', 'UCT-130006', 75.80, 'Physics', 'B');
+VALUES ('200000081', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130006', 75.80, 'Physics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000082', 'Non-Registered', 3, 'University of Cape Town', 'UCT-130007', 82.90, 'Mathematics', 'B');
+VALUES ('200000082', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130007', 82.90, 'Mathematics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000083', 'Provisional', 4, 'University of Cape Town', 'UCT-130008', 78.70, 'Environmental Science', 'B');
+VALUES ('200000083', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130008', 78.70, 'Environmental Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000084', 'Registered', 1, 'University of Cape Town', 'UCT-130009', 79.60, 'Medicine', 'B');
+VALUES ('200000084', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130009', 79.60, 'Medicine', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000085', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130010', 68.80, 'Nursing', 'B');
+VALUES ('200000085', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130010', 68.80, 'Nursing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000086', 'Provisional', 3, 'University of Cape Town', 'UCT-130011', 75.50, 'Pharmacy', 'B');
+VALUES ('200000086', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130011', 75.50, 'Pharmacy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000087', 'Registered', 4, 'University of Cape Town', 'UCT-130012', 80.90, 'Physiotherapy', 'B');
+VALUES ('200000087', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130012', 80.90, 'Physiotherapy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000088', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130013', 63.20, 'Public Health', 'B');
+VALUES ('200000088', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130013', 63.20, 'Public Health', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000089', 'Provisional', 2, 'University of Cape Town', 'UCT-130014', 80.40, 'Veterinary Science', 'B');
+VALUES ('200000089', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130014', 80.40, 'Veterinary Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000090', 'Registered', 3, 'University of Cape Town', 'UCT-130015', 77.80, 'Biomedical Sciences', 'B');
+VALUES ('200000090', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130015', 77.80, 'Biomedical Sciences', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000091', 'Registered', 1, 'University of Cape Town', 'UCT-130016', 52.30, 'Computer Science', 'B');
+VALUES ('200000091', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130016', 52.30, 'Computer Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000092', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130017', 45.50, 'Information Technology', 'B');
+VALUES ('200000092', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130017', 45.50, 'Information Technology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000093', 'Provisional', 3, 'University of Cape Town', 'UCT-130018', 41.00, 'Engineering', 'B');
+VALUES ('200000093', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130018', 41.00, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000094', 'Registered', 4, 'University of Cape Town', 'UCT-130019', 49.80, 'Data Science', 'B');
+VALUES ('200000094', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130019', 49.80, 'Data Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000095', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130020', 44.30, 'Biotechnology', 'B');
+VALUES ('200000095', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130020', 44.30, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000096', 'Provisional', 2, 'University of Cape Town', 'UCT-130021', 50.10, 'Physics', 'B');
+VALUES ('200000096', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130021', 50.10, 'Physics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000097', 'Registered', 3, 'University of Cape Town', 'UCT-130022', 53.60, 'Mathematics', 'B');
+VALUES ('200000097', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130022', 53.60, 'Mathematics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000098', 'Non-Registered', 4, 'University of Cape Town', 'UCT-130023', 48.00, 'Environmental Science', 'B');
+VALUES ('200000098', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130023', 48.00, 'Environmental Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000099', 'Provisional', 1, 'University of Cape Town', 'UCT-130024', 39.90, 'Medicine', 'B');
+VALUES ('200000099', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130024', 39.90, 'Medicine', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000100', 'Registered', 2, 'University of Cape Town', 'UCT-130025', 54.50, 'Nursing', 'B');
+VALUES ('200000100', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130025', 54.50, 'Nursing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000101', 'Non-Registered', 3, 'University of Cape Town', 'UCT-130026', 45.80, 'Pharmacy', 'B');
+VALUES ('200000101', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130026', 45.80, 'Pharmacy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000102', 'Provisional', 4, 'University of Cape Town', 'UCT-130027', 43.50, 'Physiotherapy', 'B');
+VALUES ('200000102', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130027', 43.50, 'Physiotherapy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000103', 'Registered', 1, 'University of Cape Town', 'UCT-130028', 50.20, 'Public Health', 'B');
+VALUES ('200000103', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130028', 50.20, 'Public Health', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000104', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130029', 42.60, 'Veterinary Science', 'B');
+VALUES ('200000104', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130029', 42.60, 'Veterinary Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000105', 'Provisional', 3, 'University of Cape Town', 'UCT-130030', 47.30, 'Biomedical Sciences', 'B');
+VALUES ('200000105', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130030', 47.30, 'Biomedical Sciences', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000106', 'Registered', 4, 'University of Cape Town', 'UCT-130031', 54.40, 'Computer Science', 'B');
+VALUES ('200000106', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130031', 54.40, 'Computer Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000107', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130032', 40.00, 'Information Technology', 'B');
+VALUES ('200000107', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130032', 40.00, 'Information Technology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000108', 'Provisional', 2, 'University of Cape Town', 'UCT-130033', 52.70, 'Engineering', 'B');
+VALUES ('200000108', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130033', 52.70, 'Engineering', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000109', 'Registered', 3, 'University of Cape Town', 'UCT-130034', 51.10, 'Data Science', 'B');
+VALUES ('200000109', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130034', 51.10, 'Data Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000110', 'Non-Registered', 4, 'University of Cape Town', 'UCT-130035', 46.40, 'Biotechnology', 'B');
+VALUES ('200000110', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130035', 46.40, 'Biotechnology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000111', 'Provisional', 1, 'University of Cape Town', 'UCT-130036', 34.80, 'Physics', 'B');
+VALUES ('200000111', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130036', 34.80, 'Physics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000112', 'Registered', 2, 'University of Cape Town', 'UCT-130037', 47.50, 'Mathematics', 'B');
+VALUES ('200000112', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130037', 47.50, 'Mathematics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000113', 'Non-Registered', 3, 'University of Cape Town', 'UCT-130038', 50.90, 'Environmental Science', 'B');
+VALUES ('200000113', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130038', 50.90, 'Environmental Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000114', 'Provisional', 4, 'University of Cape Town', 'UCT-130039', 38.10, 'Medicine', 'B');
+VALUES ('200000114', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130039', 38.10, 'Medicine', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000115', 'Registered', 1, 'University of Cape Town', 'UCT-130040', 49.30, 'Nursing', 'B');
+VALUES ('200000115', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130040', 49.30, 'Nursing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000116', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130041', 40.60, 'Pharmacy', 'B');
+VALUES ('200000116', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130041', 40.60, 'Pharmacy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000117', 'Provisional', 3, 'University of Cape Town', 'UCT-130042', 52.20, 'Physiotherapy', 'B');
+VALUES ('200000117', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130042', 52.20, 'Physiotherapy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000118', 'Registered', 4, 'University of Cape Town', 'UCT-130043', 45.00, 'Public Health', 'B');
+VALUES ('200000118', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130043', 45.00, 'Public Health', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000119', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130044', 48.30, 'Veterinary Science', 'B');
+VALUES ('200000119', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130044', 48.30, 'Veterinary Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000120', 'Provisional', 2, 'University of Cape Town', 'UCT-130045', 50.50, 'Biomedical Sciences', 'B');
+VALUES ('200000120', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130045', 50.50, 'Biomedical Sciences', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000121', 'Registered', 1, 'University of Cape Town', 'UCT-130046', 42.40, 'Accounting', 'B');
+VALUES ('200000121', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130046', 42.40, 'Accounting', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000122', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130047', 44.10, 'Finance', 'B');
+VALUES ('200000122', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130047', 44.10, 'Finance', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000123', 'Provisional', 3, 'University of Cape Town', 'UCT-130048', 47.60, 'Economics', 'B');
+VALUES ('200000123', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130048', 47.60, 'Economics', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000124', 'Registered', 4, 'University of Cape Town', 'UCT-130049', 43.80, 'Business Administration', 'B');
+VALUES ('200000124', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130049', 43.80, 'Business Administration', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000125', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130050', 40.20, 'Marketing', 'B');
+VALUES ('200000125', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130050', 40.20, 'Marketing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000126', 'Provisional', 2, 'University of Cape Town', 'UCT-130051', 45.30, 'Human Resource Management', 'B');
+VALUES ('200000126', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130051', 45.30, 'Human Resource Management', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000127', 'Registered', 3, 'University of Cape Town', 'UCT-130052', 51.10, 'Supply Chain Management', 'B');
+VALUES ('200000127', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130052', 51.10, 'Supply Chain Management', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000128', 'Non-Registered', 4, 'University of Cape Town', 'UCT-130053', 48.40, 'Psychology', 'B');
+VALUES ('200000128', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130053', 48.40, 'Psychology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000129', 'Provisional', 1, 'University of Cape Town', 'UCT-130054', 42.50, 'Sociology', 'B');
+VALUES ('200000129', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130054', 42.50, 'Sociology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000130', 'Registered', 2, 'University of Cape Town', 'UCT-130055', 49.60, 'Political Science', 'B');
+VALUES ('200000130', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130055', 49.60, 'Political Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000131', 'Non-Registered', 3, 'University of Cape Town', 'UCT-130056', 46.90, 'History', 'B');
+VALUES ('200000131', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130056', 46.90, 'History', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000132', 'Provisional', 4, 'University of Cape Town', 'UCT-130057', 40.90, 'Philosophy', 'B');
+VALUES ('200000132', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130057', 40.90, 'Philosophy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000133', 'Registered', 1, 'University of Cape Town', 'UCT-130058', 44.30, 'Anthropology', 'B');
+VALUES ('200000133', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130058', 44.30, 'Anthropology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000134', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130059', 43.10, 'Journalism', 'B');
+VALUES ('200000134', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130059', 43.10, 'Journalism', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000135', 'Provisional', 3, 'University of Cape Town', 'UCT-130060', 50.20, 'Law (LLB)', 'B');
+VALUES ('200000135', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130060', 50.20, 'Law (LLB)', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000136', 'Registered', 4, 'University of Cape Town', 'UCT-130061', 46.80, 'Criminology', 'B');
+VALUES ('200000136', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130061', 46.80, 'Criminology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000137', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130062', 38.20, 'International Relations', 'B');
+VALUES ('200000137', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130062', 38.20, 'International Relations', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000138', 'Provisional', 2, 'University of Cape Town', 'UCT-130063', 49.70, 'Public Administration', 'B');
+VALUES ('200000138', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130063', 49.70, 'Public Administration', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000139', 'Registered', 3, 'University of Cape Town', 'UCT-130064', 50.00, 'Education (Foundation, Intermediate, Senior Phase)', 'B');
+VALUES ('200000139', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130069', 47.10, 'Law (LLB)', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000140', 'Non-Registered', 4, 'University of Cape Town', 'UCT-130065', 41.90, 'Fine Arts', 'B');
+VALUES ('200000145', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130070', 39.90, 'Accounting', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000141', 'Provisional', 1, 'University of Cape Town', 'UCT-130066', 48.70, 'Music', 'B');
+VALUES ('200000146', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130071', 40.60, 'Marketing', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000142', 'Registered', 2, 'University of Cape Town', 'UCT-130067', 45.40, 'Drama & Theatre Studies', 'B');
+VALUES ('200000147', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130072', 42.30, 'Psychology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000143', 'Non-Registered', 3, 'University of Cape Town', 'UCT-130068', 43.80, 'Graphic Design', 'B');
+VALUES ('200000148', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130073', 44.10, 'Sociology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000144', 'Provisional', 4, 'University of Cape Town', 'UCT-130069', 47.10, 'Law (LLB)', 'B');
+VALUES ('200000149', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130074', 45.00, 'Criminology', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000145', 'Registered', 1, 'University of Cape Town', 'UCT-130070', 39.90, 'Accounting', 'B');
+VALUES ('200000150', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130075', 46.50, 'Public Health', 'B');
 
+-- University of Cape Town
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000146', 'Non-Registered', 2, 'University of Cape Town', 'UCT-130071', 40.60, 'Marketing', 'B');
+VALUES ('200000151', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130076', 82.00, 'Environmental Science', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000147', 'Provisional', 3, 'University of Cape Town', 'UCT-130072', 42.30, 'Psychology', 'B');
+VALUES ('200000152', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130077', 76.50, 'Medicine', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000148', 'Registered', 4, 'University of Cape Town', 'UCT-130073', 44.10, 'Sociology', 'B');
+VALUES ('200000153', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130078', 70.80, 'Nursing', 'B');
 
+-- University of Pretoria
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000149', 'Non-Registered', 1, 'University of Cape Town', 'UCT-130074', 45.00, 'Criminology', 'B');
+VALUES ('200000154', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120041', 78.20, 'Pharmacy', 'B');
 
 INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
-VALUES ('200000150', 'Provisional', 2, 'University of Cape Town', 'UCT-130075', 46.50, 'Public Health', 'B');
+VALUES ('200000155', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120042', 85.00, 'Physiotherapy', 'B');
 
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000156', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120043', 65.90, 'Public Health', 'B');
+
+-- University of Johannesburg
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000157', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110013', 88.50, 'Data Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000158', 'Provisional', '2024-2025', 'University of Johannesburg', 'UJ-110014', 79.30, 'Computer Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000159', 'Non-Registered', '2024-2025', 'University of Johannesburg', 'UJ-110015', 72.40, 'Engineering', 'B');
+
+-- University of Stellenbosch
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000160', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130009', 83.70, 'Economics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000161', 'Provisional', '2024-2025', 'University of Stellenbosch', 'US-130010', 77.80, 'Human Resource Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000162', 'Non-Registered', '2024-2025', 'University of Stellenbosch', 'US-130011', 68.50, 'Supply Chain Management', 'B');
+
+-- University of the Western Cape
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000163', 'Registered', '2024-2025', 'University of the Western Cape', 'UWC-140001', 81.00, 'Political Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000164', 'Provisional', '2024-2025', 'University of the Western Cape', 'UWC-140002', 74.50, 'Sociology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000165', 'Non-Registered', '2024-2025', 'University of the Western Cape', 'UWC-140003', 69.20, 'Anthropology', 'B');
+
+-- North-West University
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000166', 'Registered', '2024-2025', 'North-West University', 'NWU-150001', 76.80, 'Education', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000167', 'Provisional', '2024-2025', 'North-West University', 'NWU-150002', 70.60, 'Fine Arts', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000168', 'Non-Registered', '2024-2025', 'North-West University', 'NWU-150003', 66.40, 'Music', 'B');
+
+-- Durban University of Technology
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000169', 'Registered', '2024-2025', 'Durban University of Technology', 'DUT-160001', 84.20, 'Graphic Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000170', 'Provisional', '2024-2025', 'Durban University of Technology', 'DUT-160002', 78.90, 'Journalism', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000171', 'Non-Registered', '2024-2025', 'Durban University of Technology', 'DUT-160003', 64.80, 'Media Studies', 'B');
+
+-- Cape Peninsula University of Technology
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000172', 'Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170001', 75.40, 'Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000173', 'Provisional', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170002', 80.90, 'Architecture', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000174', 'Non-Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170003', 68.70, 'Fashion Design', 'B');
+
+-- Tshwane University of Technology
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000175', 'Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180001', 82.50, 'Information Technology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000176', 'Provisional', '2024-2025', 'Tshwane University of Technology', 'TUT-180002', 79.60, 'Computer Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000177', 'Non-Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180003', 67.80, 'Multimedia', 'B');
+
+-- University of Fort Hare
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000178', 'Registered', '2024-2025', 'University of Fort Hare', 'UFH-190001', 84.10, 'Agriculture', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000179', 'Provisional', '2024-2025', 'University of Fort Hare', 'UFH-190002', 75.00, 'Development Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000180', 'Non-Registered', '2024-2025', 'University of Fort Hare', 'UFH-190003', 69.30, 'Social Work', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000181', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130079', 90.00, 'Biochemistry', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000182', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130080', 78.40, 'Statistics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000183', 'Non-Registered', '2024-2025', 'University of Cape Town', 'UCT-130081', 67.50, 'Geography', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000184', 'Registered', '2024-2025', 'University of Cape Town', 'UCT-130082', 82.30, 'Philosophy', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000185', 'Provisional', '2024-2025', 'University of Cape Town', 'UCT-130083', 82.30, 'Philosophy', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000186', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120044', 88.50, 'Veterinary Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000187', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120045', 80.70, 'Architecture', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000188', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120046', 73.20, 'Law', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000189', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120047', 79.90, 'Psychology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000190', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120048', 70.00, 'Economics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000191', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120049', 65.50, 'Sociology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000192', 'Registered', '2024-2025', 'University of Pretoria', 'UP-120050', 84.10, 'Mathematics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000193', 'Provisional', '2024-2025', 'University of Pretoria', 'UP-120051', 77.20, 'Statistics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000194', 'Non-Registered', '2024-2025', 'University of Pretoria', 'UP-120052', 69.80, 'Public Administration', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000195', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110016', 86.00, 'Graphic Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000196', 'Provisional', '2024-2025', 'University of Johannesburg', 'UJ-110017', 81.50, 'Fine Arts', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000197', 'Non-Registered', '2024-2025', 'University of Johannesburg', 'UJ-110018', 72.30, 'Music', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000198', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110019', 78.90, 'Media Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000199', 'Provisional', '2024-2025', 'University of Johannesburg', 'UJ-110020', 74.60, 'Journalism', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000200', 'Non-Registered', '2024-2025', 'University of Johannesburg', 'UJ-110021', 68.50, 'Political Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000201', 'Registered', '2024-2025', 'University of Johannesburg', 'UJ-110022', 85.20, 'Business Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000202', 'Provisional', '2024-2025', 'University of Johannesburg', 'UJ-110023', 78.30, 'Human Resource Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000203', 'Non-Registered', '2024-2025', 'University of Johannesburg', 'UJ-110024', 70.70, 'Marketing', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000204', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130012', 88.80, 'Agricultural Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000205', 'Provisional', '2024-2025', 'University of Stellenbosch', 'US-130013', 82.20, 'Environmental Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000206', 'Non-Registered', '2024-2025', 'University of Stellenbosch', 'US-130014', 76.50, 'History', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000207', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130015', 80.00, 'Philosophy', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000208', 'Provisional', '2024-2025', 'University of Stellenbosch', 'US-130016', 74.90, 'Sociology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000209', 'Non-Registered', '2024-2025', 'University of Stellenbosch', 'US-130017', 71.20, 'Psychology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000210', 'Registered', '2024-2025', 'University of Stellenbosch', 'US-130018', 84.30, 'Information Technology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000211', 'Provisional', '2024-2025', 'University of Stellenbosch', 'US-130019', 78.60, 'Data Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000212', 'Non-Registered', '2024-2025', 'University of Stellenbosch', 'US-130020', 66.40, 'Statistics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000213', 'Registered', '2024-2025', 'University of the Western Cape', 'UWC-140004', 87.50, 'Public Administration', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000214', 'Provisional', '2024-2025', 'University of the Western Cape', 'UWC-140005', 79.80, 'Development Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000215', 'Non-Registered', '2024-2025', 'University of the Western Cape', 'UWC-140006', 72.10, 'Social Work', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000216', 'Registered', '2024-2025', 'University of the Western Cape', 'UWC-140007', 75.50, 'Gender Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000217', 'Provisional', '2024-2025', 'University of the Western Cape', 'UWC-140008', 68.90, 'Political Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000218', 'Non-Registered', '2024-2025', 'University of the Western Cape', 'UWC-140009', 64.70, 'History', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000219', 'Registered', '2024-2025', 'University of the Western Cape', 'UWC-140010', 81.20, 'African Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000220', 'Provisional', '2024-2025', 'University of the Western Cape', 'UWC-140011', 77.80, 'Sociology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000221', 'Non-Registered', '2024-2025', 'University of the Western Cape', 'UWC-140012', 70.40, 'Human Rights', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000222', 'Registered', '2024-2025', 'North-West University', 'NWU-150004', 85.90, 'Environmental Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000223', 'Provisional', '2024-2025', 'North-West University', 'NWU-150005', 78.60, 'Agriculture', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000224', 'Non-Registered', '2024-2025', 'North-West University', 'NWU-150006', 72.90, 'Forestry', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000225', 'Registered', '2024-2025', 'North-West University', 'NWU-150007', 80.40, 'Mining Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000226', 'Provisional', '2024-2025', 'North-West University', 'NWU-150008', 74.70, 'Mechanical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000227', 'Non-Registered', '2024-2025', 'North-West University', 'NWU-150009', 68.20, 'Electrical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000228', 'Registered', '2024-2025', 'North-West University', 'NWU-150010', 86.40, 'Civil Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000229', 'Provisional', '2024-2025', 'North-West University', 'NWU-150011', 79.50, 'Industrial Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000230', 'Non-Registered', '2024-2025', 'North-West University', 'NWU-150012', 71.10, 'Chemical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000231', 'Registered', '2024-2025', 'Durban University of Technology', 'DUT-160004', 83.00, 'Hospitality Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000232', 'Provisional', '2024-2025', 'Durban University of Technology', 'DUT-160005', 76.90, 'Tourism Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000233', 'Non-Registered', '2024-2025', 'Durban University of Technology', 'DUT-160006', 70.50, 'Graphic Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000234', 'Registered', '2024-2025', 'Durban University of Technology', 'DUT-160007', 82.20, 'Information Technology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000235', 'Provisional', '2024-2025', 'Durban University of Technology', 'DUT-160008', 75.80, 'Mechanical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000236', 'Non-Registered', '2024-2025', 'Durban University of Technology', 'DUT-160009', 68.30, 'Electrical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000237', 'Registered', '2024-2025', 'Durban University of Technology', 'DUT-160010', 84.00, 'Civil Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000238', 'Provisional', '2024-2025', 'Durban University of Technology', 'DUT-160011', 78.40, 'Fashion Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000239', 'Non-Registered', '2024-2025', 'Durban University of Technology', 'DUT-160012', 66.70, 'Interior Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000240', 'Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170004', 88.00, 'Electrical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000241', 'Provisional', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170005', 79.50, 'Mechanical Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000242', 'Non-Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170006', 72.90, 'Civil Engineering', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000243', 'Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170007', 82.30, 'Industrial Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000244', 'Provisional', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170008', 76.10, 'Graphic Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000245', 'Non-Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170009', 69.80, 'Fashion Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000246', 'Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170010', 85.00, 'Hospitality Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000247', 'Provisional', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170011', 78.50, 'Tourism Management', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000248', 'Non-Registered', '2024-2025', 'Cape Peninsula University of Technology', 'CPUT-170012', 66.00, 'Media Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000249', 'Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180004', 84.70, 'Information Technology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000250', 'Provisional', '2024-2025', 'Tshwane University of Technology', 'TUT-180005', 79.20, 'Computer Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000251', 'Non-Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180006', 71.80, 'Multimedia', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000252', 'Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180007', 82.50, 'Graphic Design', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000253', 'Provisional', '2024-2025', 'Tshwane University of Technology', 'TUT-180008', 76.40, 'Animation', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000254', 'Non-Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180009', 69.60, 'Film Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000255', 'Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180010', 85.30, 'Game Development', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000256', 'Provisional', '2024-2025', 'Tshwane University of Technology', 'TUT-180011', 78.90, 'Web Development', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000257', 'Non-Registered', '2024-2025', 'Tshwane University of Technology', 'TUT-180012', 66.80, 'Cyber Security', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000258', 'Registered', '2024-2025', 'University of Fort Hare', 'UFH-190004', 86.70, 'Agricultural Economics', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000259', 'Provisional', '2024-2025', 'University of Fort Hare', 'UFH-190005', 80.30, 'Rural Development', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000260', 'Non-Registered', '2024-2025', 'University of Fort Hare', 'UFH-190006', 74.20, 'Social Work', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+  VALUES ('200000261', 'Registered', '2024-2025', 'University of Fort Hare', 'UFH-190007', 81.50, 'History', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000262', 'Provisional', '2024-2025', 'University of Fort Hare', 'UFH-190008', 78.10, 'Political Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000263', 'Non-Registered', '2024-2025', 'University of Fort Hare', 'UFH-190009', 66.90, 'Development Studies', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000264', 'Registered', '2024-2025', 'University of Fort Hare', 'UFH-190010', 84.60, 'Environmental Science', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000265', 'Provisional', '2024-2025', 'University of Fort Hare', 'UFH-190011', 79.80, 'Anthropology', 'B');
+
+INSERT INTO STUDENT_LOAN (LOAN_ID, REGISTRATION_STATUS, ACADEMIC_YEAR, INSTITUTION_NAME, STUDENT_NUM, ACADEMIC_AVERAGE, SUBJECT_NAME, FLAG) 
+VALUES ('200000266', 'Non-Registered', '2024-2025', 'University of Fort Hare', 'UFH-190012', 70.50, 'Sociology', 'B');
 
