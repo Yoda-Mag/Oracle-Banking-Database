@@ -1,2 +1,2 @@
-# Group-Project
+#Oracle banking database
 Banking System 
